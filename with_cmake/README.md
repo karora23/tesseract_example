@@ -18,7 +18,7 @@ cd tesseract_example/with_cmake
 cppan
 mkdir build && cd build
 cmake ..
-cmake --build . --config Release
+cmake --build .. --config Release
 ```
 
 ### Linux
